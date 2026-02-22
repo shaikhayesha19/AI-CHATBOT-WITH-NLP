@@ -27,3 +27,7 @@ Once the text is converted into vectors, the chatbot calculates cosine similarit
 The chatbot also uses a similarity threshold. If the similarity score is too low, it means the chatbot cannot understand the user’s input properly. In this case, it gives a default response such as “Sorry, I didn’t understand that.” This prevents the chatbot from giving incorrect answers.
 
 The chatbot runs inside a continuous loop, allowing users to keep chatting until they type an exit word like “bye.” Overall, this project is a good example of how basic NLP techniques can be used to build a simple conversational system. It helps learners understand key concepts like text preprocessing, vectorization, and similarity matching while providing a foundation for building more advanced AI chatbots in the future.
+
+OUTPUT
+
+<img width="650" height="368" alt="Image" src="https://github.com/user-attachments/assets/6de38828-571b-4749-986d-a802794ab1ea" />
